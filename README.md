@@ -16,7 +16,11 @@
 
 <ul>
     <li>플랫폼<ul>
-            <li>MySQL, NodeJs, 카카오 API, Visual Studio Code,엑셀 </li>
+            <li> 개발도구 : Visual Studio Code </li>
+            <li> 프레임워크 : NodeJs, Express </li>
+            <li> 데이터베이스 : MySql </li>
+            <li> 외부 API : 카카오 API  </li>
+            <li> 테스트 도구 : post man </li>
         </ul>
     </li>
     <li>개발 도구 및 기술<ul>
