@@ -14,7 +14,7 @@ const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 
-//
+//메인페이지
 app.get("/", (req, res)=>{
     res.render('index.js');
 });
