@@ -6,8 +6,6 @@ const fs = require('fs'); //모름
 
 //const index = require('./routes/index'); 
 
-//app.use('/aboutroutes', index);
-
 app.listen(3000,() =>{
     console.log('liten to 3000')
 })
